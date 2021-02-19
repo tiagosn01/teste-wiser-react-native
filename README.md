@@ -15,7 +15,7 @@
 
 <h3>Instruções para rodar o projeto:</h3>
   1 Clonar o Projeto
- <p>git clone https://github.com/tiagosn01/teste-wiser-react-native</p>
+ <p>git clone https://github.com/tiagosn01/teste-wiser-react-native.git</p>
 
   2 - Entrar na pasta do projeto e rodar o comando via terminal yarn, ou npm install
  <p>  git clone https://github.com/tiagosn01/teste-wiser-react-native </p>
